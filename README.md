@@ -1,4 +1,5 @@
 A year ago, we completed a class project that involved designing a website about a festival of our choice. Due to my limited time because of my previous job and my lack of dedication at the time, my project did not stand out in terms of design and lacked important functionality. Nevertheless, the instructor granted me a passing grade.
+
 ![img1](imagenes/pgn_before1.png)
 ![img2](imagenes/pgn_before2.png)
 
