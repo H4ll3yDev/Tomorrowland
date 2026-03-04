@@ -1,0 +1,5 @@
+![img1](imagenes/pgn_before1.png)
+![img2](imagenes/pgn_before2.png)
+![img3](imagenes/pgn_after.png)
+![img4](imagenes/pgn_afte3.png)
+![img5](imagenes/pgn_afte4.png)
